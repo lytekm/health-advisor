@@ -10,7 +10,6 @@ import {
   PressableProps,
 } from 'react-native';
 import { useTheme } from '@/src/theme/useTheme';
-import { useThemeContext } from '@/src/theme/ThemeProvider';
 import { shadow } from '@/src/theme/shadows';
 
 export const Box: React.FC<ViewProps & { elevated?: boolean; surface?: boolean }> = ({

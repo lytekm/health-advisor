@@ -23,3 +23,9 @@ Track your excersise and create workout plans and goals for yourself.
 ### Management
 
 This project is managed through Jira. All new features must be done in a new branch and tracked through Jira tasks.
+
+### Key struggles
+
+#### App setup
+
+I set this project up from scratch basically and needed to change things within the config to allow for things like hot refresh and to switch to the app router. In this I learned more about how tsconfig works and overall just how to setup projects the way I want without a template.
